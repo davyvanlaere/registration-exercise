@@ -1,0 +1,12 @@
+C:\Git\Inimco\Registrations\RegistrationDb\bin\Debug\net8.0\RegistrationDb.deps.json
+C:\Git\Inimco\Registrations\RegistrationDb\bin\Debug\net8.0\RegistrationDb.dll
+C:\Git\Inimco\Registrations\RegistrationDb\bin\Debug\net8.0\RegistrationDb.pdb
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.csproj.AssemblyReference.cache
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.AssemblyInfoInputs.cache
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.AssemblyInfo.cs
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.csproj.CoreCompileInputs.cache
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.dll
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\refint\RegistrationDb.dll
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\RegistrationDb.pdb
+C:\Git\Inimco\Registrations\RegistrationDb\obj\Debug\net8.0\ref\RegistrationDb.dll

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\Inimco\\Registrations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|c:\\git\\inimco\\registrations\\registrationapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|solutionrelative:registrationapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|c:\\git\\inimco\\registrations\\registrationapi\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|solutionrelative:registrationapi\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\designtimecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\designtimecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|c:\\git\\inimco\\registrations\\registrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|solutionrelative:registrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\model\\socialmediaaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\model\\socialmediaaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\model\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\model\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\model\\socialmediaplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\model\\socialmediaplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|c:\\git\\inimco\\registrations\\registrationapi\\registration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{761DE869-E073-4224-8120-EEB86F871BB5}|RegistrationApi\\Registration.Api.csproj|solutionrelative:registrationapi\\registration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|c:\\git\\inimco\\registrations\\registrationdb\\registration.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D83A29D-46A6-4B89-8312-CA55B7D8A2B7}|RegistrationDb\\Registration.Db.csproj|solutionrelative:registrationdb\\registration.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "RegistrationApi\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "RegistrationApi\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:35:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignTimeContextFactory.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\DesignTimeContextFactory.cs",
+              "RelativeDocumentMoniker": "RegistrationDb\\DesignTimeContextFactory.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\DesignTimeContextFactory.cs",
+              "RelativeToolTip": "RegistrationDb\\DesignTimeContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:27:46.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialMediaAddress.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\SocialMediaAddress.cs",
+              "RelativeDocumentMoniker": "RegistrationDb\\Model\\SocialMediaAddress.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\SocialMediaAddress.cs",
+              "RelativeToolTip": "RegistrationDb\\Model\\SocialMediaAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:47:10.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\Registration.cs",
+              "RelativeDocumentMoniker": "RegistrationDb\\Model\\Registration.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\Registration.cs",
+              "RelativeToolTip": "RegistrationDb\\Model\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:47:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SocialMediaPlatform.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\SocialMediaPlatform.cs",
+              "RelativeDocumentMoniker": "RegistrationDb\\Model\\SocialMediaPlatform.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Model\\SocialMediaPlatform.cs",
+              "RelativeToolTip": "RegistrationDb\\Model\\SocialMediaPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:47:06.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialMediaController.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Controllers\\SocialMediaController.cs",
+              "RelativeDocumentMoniker": "RegistrationApi\\Controllers\\SocialMediaController.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Controllers\\SocialMediaController.cs",
+              "RelativeToolTip": "RegistrationApi\\Controllers\\SocialMediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:43:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationApi\\Program.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Program.cs",
+              "RelativeToolTip": "RegistrationApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:40:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.Api",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Registration.Api.csproj",
+              "RelativeDocumentMoniker": "RegistrationApi\\Registration.Api.csproj",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationApi\\Registration.Api.csproj",
+              "RelativeToolTip": "RegistrationApi\\Registration.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T09:00:31.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationDbContext.cs",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\RegistrationDbContext.cs",
+              "RelativeDocumentMoniker": "RegistrationDb\\RegistrationDbContext.cs",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\RegistrationDbContext.cs",
+              "RelativeToolTip": "RegistrationDb\\RegistrationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:57:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.Db",
+              "DocumentMoniker": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Registration.Db.csproj",
+              "RelativeDocumentMoniker": "RegistrationDb\\Registration.Db.csproj",
+              "ToolTip": "C:\\Git\\Inimco\\Registrations\\RegistrationDb\\Registration.Db.csproj",
+              "RelativeToolTip": "RegistrationDb\\Registration.Db.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T08:51:35.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

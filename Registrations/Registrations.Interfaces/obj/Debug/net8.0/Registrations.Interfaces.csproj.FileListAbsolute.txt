@@ -1,0 +1,15 @@
+C:\Git\Inimco\Registrations\Registrations.Interfaces\bin\Debug\net8.0\Registrations.Interfaces.deps.json
+C:\Git\Inimco\Registrations\Registrations.Interfaces\bin\Debug\net8.0\Registrations.Interfaces.dll
+C:\Git\Inimco\Registrations\Registrations.Interfaces\bin\Debug\net8.0\Registrations.Interfaces.pdb
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.csproj.AssemblyReference.cache
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.AssemblyInfoInputs.cache
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.AssemblyInfo.cs
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.csproj.CoreCompileInputs.cache
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registra.1A64188D.Up2Date
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.dll
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\refint\Registrations.Interfaces.dll
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\Registrations.Interfaces.pdb
+C:\Git\Inimco\Registrations\Registrations.Interfaces\obj\Debug\net8.0\ref\Registrations.Interfaces.dll
+C:\Git\Inimco\Registrations\Registrations.Interfaces\bin\Debug\net8.0\Registration.Db.dll
+C:\Git\Inimco\Registrations\Registrations.Interfaces\bin\Debug\net8.0\Registration.Db.pdb
