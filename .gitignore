@@ -1,0 +1,7 @@
+**/bin
+**/obj
+.vs/
+**/Sources
+**/HttpKey.txt
+**/Security/HttpKey.txt
+**/.vscode
